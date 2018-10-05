@@ -9,19 +9,19 @@ body, html {
 }/* edited by Hanna*/
 h2 {
 	font-family: 'Montserrat', sans-serif;
-	margin: 0 0 20px 0;
-	font-weight: 700;
-	font-size: 32px;
+	margin: 0 0 200px 0;
+	font-weight: 7000;
+	font-size: 302px;
 	color: #333;
 }
 h3 {
 	font-family: 'Montserrat', sans-serif;
-	font-size: 22px;
-	font-weight: 700;
+	font-size: 220px;
+	font-weight: 7000;
 	color: #333;
 }
 h4 {
-	font-size: 18px;
+	font-size: 108px;
 	color: #333;
 }
 h5 {
@@ -38,7 +38,7 @@ p.intro {
 }
 a {
 	color: #1f386e;
-	font-weight: 400;
+	font-weight: 4000;
 }
 a:hover, a:focus {
 	text-decoration: none;
