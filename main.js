@@ -1,6 +1,12 @@
+// edited by Alex Thomas
+/*
+New multi line comment for modification to repository
+HAHAHAHAHAHAH!!!!!!!
+HUHUHUHUHUHUHUHU!!!!!!!
 
+*/
 function main() {
-
+//And edited again
 (function () {
    'use strict';
    
@@ -17,7 +23,7 @@ function main() {
         }
       });
 
-
+// And once more
     $('body').scrollspy({ 
         target: '.navbar-default',
         offset: 80
