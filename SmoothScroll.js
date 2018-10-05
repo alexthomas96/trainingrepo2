@@ -1,3 +1,5 @@
+//edited by manikantan on 05/10/2018
+
 // SmoothScroll for websites v1.2.1
 // Licensed under the terms of the MIT license.
 
